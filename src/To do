@@ -1,0 +1,4 @@
+1. Add ability to edit users
+2. Remove <br /> tags
+3. Change reset plugin from reduxForm reducer
+4. Add routing
